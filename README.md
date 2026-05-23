@@ -2,6 +2,8 @@
 
 A web-based personal finance dashboard built with Python and Streamlit.
 
+🚀 **Live demo:** https://financetracker-0921.streamlit.app/
+
 ## Features
 - Track income and expenses across 10 categories
 - Interactive charts — monthly bar, category donut, daily heatmap
@@ -14,7 +16,7 @@ Python · Streamlit · Pandas · Plotly · scikit-learn
 
 ## Run locally
 ```bash
-git clone https://github.com/abhik-kundu09/Finance_Tracker.git
+git clone  https://github.com/abhik-kundu09/Finance_Tracker.git
 cd finance-tracker
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
