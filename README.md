@@ -14,7 +14,7 @@ Python · Streamlit · Pandas · Plotly · scikit-learn
 
 ## Run locally
 ```bash
-git clone https://github.com/YOUR_USERNAME/finance-tracker.git
+git clone https://github.com/abhik-kundu09/Finance_Tracker.git
 cd finance-tracker
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
