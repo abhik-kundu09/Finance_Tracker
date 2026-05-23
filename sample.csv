@@ -1,0 +1,26 @@
+date,amount,category,type,description
+2024-01-01,3500.00,Salary,income,Monthly salary
+2024-01-01,1200.00,Housing,expense,Rent
+2024-01-05,45.50,Food & Dining,expense,Grocery run
+2024-01-08,32.00,Transport,expense,Monthly transit pass
+2024-01-10,80.00,Entertainment,expense,Cinema and dinner
+2024-01-15,25.00,Health,expense,Pharmacy
+2024-01-20,150.00,Shopping,expense,Clothing
+2024-01-22,500.00,Freelance,income,Web design project
+2024-01-25,60.00,Utilities,expense,Electric bill
+2024-02-01,3500.00,Salary,income,Monthly salary
+2024-02-01,1200.00,Housing,expense,Rent
+2024-02-03,52.00,Food & Dining,expense,Supermarket
+2024-02-07,40.00,Transport,expense,Fuel
+2024-02-14,95.00,Entertainment,expense,Valentine dinner
+2024-02-18,200.00,Health,expense,Dentist
+2024-02-20,300.00,Shopping,expense,Electronics
+2024-02-28,55.00,Utilities,expense,Internet bill
+2024-03-01,3500.00,Salary,income,Monthly salary
+2024-03-01,1200.00,Housing,expense,Rent
+2024-03-04,48.00,Food & Dining,expense,Grocery shopping
+2024-03-10,120.00,Travel,expense,Weekend trip
+2024-03-15,35.00,Transport,expense,Taxi rides
+2024-03-20,75.00,Entertainment,expense,Concert ticket
+2024-03-25,400.00,Freelance,income,Consulting
+2024-03-28,62.00,Utilities,expense,Gas bill
